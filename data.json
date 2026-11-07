@@ -1,0 +1,296 @@
+{
+    "chart_title": "2024 NFL Regular Season Team Records",
+    "season": 2024,
+    "season_type": "Regular season (excludes playoffs)",
+    "source_url": "https://www.nfl.com/standings/division/2024/REG",
+    "data_points": [
+        {
+            "label": "Buffalo Bills",
+            "value": 13,
+            "wins": 13,
+            "losses": 4,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC East"
+        },
+        {
+            "label": "Miami Dolphins",
+            "value": 8,
+            "wins": 8,
+            "losses": 9,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC East"
+        },
+        {
+            "label": "New York Jets",
+            "value": 5,
+            "wins": 5,
+            "losses": 12,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC East"
+        },
+        {
+            "label": "New England Patriots",
+            "value": 4,
+            "wins": 4,
+            "losses": 13,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC East"
+        },
+        {
+            "label": "Baltimore Ravens",
+            "value": 12,
+            "wins": 12,
+            "losses": 5,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC North"
+        },
+        {
+            "label": "Pittsburgh Steelers",
+            "value": 10,
+            "wins": 10,
+            "losses": 7,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC North"
+        },
+        {
+            "label": "Cincinnati Bengals",
+            "value": 9,
+            "wins": 9,
+            "losses": 8,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC North"
+        },
+        {
+            "label": "Cleveland Browns",
+            "value": 3,
+            "wins": 3,
+            "losses": 14,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC North"
+        },
+        {
+            "label": "Houston Texans",
+            "value": 10,
+            "wins": 10,
+            "losses": 7,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC South"
+        },
+        {
+            "label": "Indianapolis Colts",
+            "value": 8,
+            "wins": 8,
+            "losses": 9,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC South"
+        },
+        {
+            "label": "Jacksonville Jaguars",
+            "value": 4,
+            "wins": 4,
+            "losses": 13,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC South"
+        },
+        {
+            "label": "Tennessee Titans",
+            "value": 3,
+            "wins": 3,
+            "losses": 14,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC South"
+        },
+        {
+            "label": "Kansas City Chiefs",
+            "value": 15,
+            "wins": 15,
+            "losses": 2,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC West"
+        },
+        {
+            "label": "Los Angeles Chargers",
+            "value": 11,
+            "wins": 11,
+            "losses": 6,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC West"
+        },
+        {
+            "label": "Denver Broncos",
+            "value": 10,
+            "wins": 10,
+            "losses": 7,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC West"
+        },
+        {
+            "label": "Las Vegas Raiders",
+            "value": 4,
+            "wins": 4,
+            "losses": 13,
+            "ties": 0,
+            "conference": "AFC",
+            "division": "AFC West"
+        },
+        {
+            "label": "Philadelphia Eagles",
+            "value": 14,
+            "wins": 14,
+            "losses": 3,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC East"
+        },
+        {
+            "label": "Washington Commanders",
+            "value": 12,
+            "wins": 12,
+            "losses": 5,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC East"
+        },
+        {
+            "label": "Dallas Cowboys",
+            "value": 7,
+            "wins": 7,
+            "losses": 10,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC East"
+        },
+        {
+            "label": "New York Giants",
+            "value": 3,
+            "wins": 3,
+            "losses": 14,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC East"
+        },
+        {
+            "label": "Detroit Lions",
+            "value": 15,
+            "wins": 15,
+            "losses": 2,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC North"
+        },
+        {
+            "label": "Minnesota Vikings",
+            "value": 14,
+            "wins": 14,
+            "losses": 3,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC North"
+        },
+        {
+            "label": "Green Bay Packers",
+            "value": 11,
+            "wins": 11,
+            "losses": 6,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC North"
+        },
+        {
+            "label": "Chicago Bears",
+            "value": 5,
+            "wins": 5,
+            "losses": 12,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC North"
+        },
+        {
+            "label": "Tampa Bay Buccaneers",
+            "value": 10,
+            "wins": 10,
+            "losses": 7,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC South"
+        },
+        {
+            "label": "Atlanta Falcons",
+            "value": 8,
+            "wins": 8,
+            "losses": 9,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC South"
+        },
+        {
+            "label": "Carolina Panthers",
+            "value": 5,
+            "wins": 5,
+            "losses": 12,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC South"
+        },
+        {
+            "label": "New Orleans Saints",
+            "value": 5,
+            "wins": 5,
+            "losses": 12,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC South"
+        },
+        {
+            "label": "Los Angeles Rams",
+            "value": 10,
+            "wins": 10,
+            "losses": 7,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC West"
+        },
+        {
+            "label": "Seattle Seahawks",
+            "value": 10,
+            "wins": 10,
+            "losses": 7,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC West"
+        },
+        {
+            "label": "Arizona Cardinals",
+            "value": 8,
+            "wins": 8,
+            "losses": 9,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC West"
+        },
+        {
+            "label": "San Francisco 49ers",
+            "value": 6,
+            "wins": 6,
+            "losses": 11,
+            "ties": 0,
+            "conference": "NFC",
+            "division": "NFC West"
+        }
+    ]
+}
